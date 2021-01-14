@@ -26,3 +26,12 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
